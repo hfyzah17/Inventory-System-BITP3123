@@ -1,4 +1,4 @@
-# Inventory System
+# Inventory Management System
 BITP 3123 DISTRIBUTION DEVELOPMENT
 
 
@@ -33,6 +33,9 @@ MySQL Workbench allows you to create and visualize database schemas, making data
 
 Visual Studio Code makes writing and editing PHP code straightforward with syntax highlighting and code completion. Its functionality is enhanced by extensions such as PHP Intelephense, which adds advanced PHP features. Debugging PHP code is simple with built-in tools and extensions. The integrated terminal allows running PHP scripts and commands directly within the editor. Additionally, it integrates seamlessly with Git for managing source code versions efficiently.
 
+
+
+
 # *Functions/Features in the middleware*
 
 # 1. Authentication and Authorization
@@ -44,6 +47,10 @@ User Authentication:
 - Login: Allows users to securely access the system by verifying their credentials (username and password).
 - Logout: Ends the user session, ensuring no unauthorized access after the user leaves.
 
+Role-Based Access Control (RBAC):
+- Admin: Users with full access to all system features, including user management.
+
+  
 # 2. Inventory Management
 CRUD Operations:
 
@@ -51,7 +58,13 @@ CRUD Operations:
 - Read inventory item details: Retrieves detailed information about specific inventory items.
 - Update inventory item information: Modifies existing inventory item details, such as quantity adjustments.
 - Delete inventory items: Removes items from the inventory database when they are no longer needed.
-  
+
+
+# *The database and tables involve in the projects*
+
+Database: 
+Tables:
+
 *GROUP MEMBER*
 
 SITI NURUL NURHAFIZAH BINTI ROSZAIMI (B032210073)
