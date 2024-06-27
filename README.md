@@ -17,10 +17,12 @@ BITP 3123 DISTRIBUTION DEVELOPMENT
                          -Testing and debugging: Test application                                                         thoroughly to make sure everything  work                                                        correctly.
                                                   
                                                   
-# 2)XAMPP(PHPMYADMIN): To let run web server on computer .It include Apache (webserver) and MYSQL (database server).phpMyAdmin  is web tool for manging MYSQL database,included with XAMPP.The function is to create ,modify and delete database (database management),Table Mangement to create table manage table , Data mangement to insert,update , delete the data and User mangement  to manage databse user account.
+# 2)XAMPP(PHPMYADMIN): 
+To let run web server on computer .It include Apache (webserver) and MYSQL (database server).phpMyAdmin  is web tool for manging MYSQL database,included with XAMPP.The function is to create ,modify and delete database (database management),Table Mangement to create table manage table , Data mangement to insert,update , delete the data and User mangement  to manage databse user account.
 
 # 3)MYSQL Workbench:
 # Functions of MySQL Workbench
+
 MySQL Workbench allows you to create and visualize database schemas, making database design intuitive. It supports SQL development, enabling you to write and run SQL queries efficiently. With data modeling tools, you can design database structures visually. The tool also provides features for database administration, helping you manage databases, users, and backups. Additionally, MySQL Workbench offers performance tuning capabilities to optimize and analyze database performance, ensuring your system runs smoothly.
 
 
