@@ -3,6 +3,8 @@ BITP 3123 DISTRIBUTION DEVELOPMENT
 
 
 How many apps are involved?
+
+
 Apps involved: 1)Eclipse(.java/etc)
                2)Xampp(phpmyadmin)
                3)Mysql workbench
