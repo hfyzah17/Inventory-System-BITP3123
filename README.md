@@ -9,7 +9,8 @@ Apps involved: 1)Eclipse(.java/etc)
                4)Visualcode(.php)
 
 Brief explanation of each apps:
-      1) Eclipse: This app do design ui and functions  using Java  to make inventory                                 mangement system in java
+
+1) Eclipse: This app do design ui and functions  using Java  to make inventory                                 mangement system in java
 
 Function of Eclipse: - Action Listener: These are bit code that                                                        react to user actions, like clicking the                                                        "login" button.
                       -Error Handling:  This ensures users enter                                                       valid information and handles any problems                                                      communicating with the server.
