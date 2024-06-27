@@ -20,9 +20,7 @@ Function of Eclipse: - Action Listener: These are bit code that                 
                       -Testing and debugging: Test application                                                         thoroughly to make sure everything  work                                                        correctly.
                                                   
                                                   
-2)XAMPP(PHPMYADMIN):
-
-
+2)XAMPP(PHPMYADMIN): To let run web server on computer .It include Apache (webserver) and MYSQL (database server).phpMyAdmin  is web tool for manging MYSQL database,included with XAMPP.The function is to create ,modify and delete database (database management),Table Mangement to create table manage table , Data mangement to insert,update , delete the data and User mangement  to manage databse user account.
 
 3)MYSQL Workbench:
 
