@@ -62,13 +62,15 @@ CRUD Operations:
 
 # *The database and tables involve in the projects*
 
-Table: Inventory
+- Database: inventorymanagement xampp
 
-Column Name	
-ProductID	
-ProductName
-Quantity	
-Price	
+TABLE: inventory 
+  ProductID` int NOT NULL,
+  ProductName` varchar(45) NOT NULL,
+  Quantity` int NOT NULL,
+  Price` float NOT NULL,
+
+- Database: inventorysystem
 
 TABLE: user 
   UserId int(11) NOT NULL,
@@ -77,7 +79,7 @@ TABLE: user
   Email varchar(100) NOT NULL,
   Password varchar(50) NOT NULL
   
-*GROUP MEMBER*
+# *GROUP MEMBER*
 
 SITI NURUL NURHAFIZAH BINTI ROSZAIMI (B032210073)
 NUR ALIFAH ILYANA BINTI NORAZLAN (B032210109) 
