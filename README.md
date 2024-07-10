@@ -62,8 +62,13 @@ CRUD Operations:
 
 # *The database and tables involve in the projects*
 
-Database: 
-Tables:
+Table: Inventory
+
+Column Name	
+ProductID	
+ProductName
+Quantity	
+Price	
 
 *GROUP MEMBER*
 
