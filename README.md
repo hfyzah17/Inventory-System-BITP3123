@@ -62,18 +62,18 @@ CRUD Operations:
 
 # *The database and tables involve in the projects*
 
-- Database: inventorymanagement xampp
+# Database: inventorymanagement xampp
 
 - TABLE: inventory 
-  ProductID` int NOT NULL,
+ -  ProductID` int NOT NULL,
   ProductName` varchar(45) NOT NULL,
   Quantity` int NOT NULL,
   Price` float NOT NULL,
 
-- Database: inventorysystem
+# Database: inventorysystem
 
 - TABLE: user 
-  UserId int(11) NOT NULL,
+ -  UserId int(11) NOT NULL,
   Username varchar(50) NOT NULL,
   Phonenumber varchar(15) NOT NULL,
   Email varchar(100) NOT NULL,
