@@ -70,6 +70,13 @@ ProductName
 Quantity	
 Price	
 
+TABLE: user 
+  UserId int(11) NOT NULL,
+  Username varchar(50) NOT NULL,
+  Phonenumber varchar(15) NOT NULL,
+  Email varchar(100) NOT NULL,
+  Password varchar(50) NOT NULL
+  
 *GROUP MEMBER*
 
 SITI NURUL NURHAFIZAH BINTI ROSZAIMI (B032210073)
