@@ -64,7 +64,7 @@ CRUD Operations:
 
 - Database: inventorymanagement xampp
 
-TABLE: inventory 
+- TABLE: inventory 
   ProductID` int NOT NULL,
   ProductName` varchar(45) NOT NULL,
   Quantity` int NOT NULL,
@@ -72,7 +72,7 @@ TABLE: inventory
 
 - Database: inventorysystem
 
-TABLE: user 
+- TABLE: user 
   UserId int(11) NOT NULL,
   Username varchar(50) NOT NULL,
   Phonenumber varchar(15) NOT NULL,
