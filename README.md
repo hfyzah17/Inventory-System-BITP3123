@@ -35,6 +35,34 @@ Visual Studio Code makes writing and editing PHP code straightforward with synta
 
 
 
+# RESTful API (Common for modern inventory systems):
+
+Endpoints:
+/products (GET): Retrieve a list of products
+/products/{id} (GET): Get details of a specific product (using product ID)
+/products (POST): Create a new product
+/products/{id} (PUT): Update an existing product
+/products/{id} (DELETE): Delete a product
+/inventory (GET): Get overall inventory status
+/inventory/{location} (GET): Get inventory status for a specific location
+/orders (POST): Create a new order
+/orders/{id} (GET): Get details of a specific order
+/suppliers (GET): Retrieve a list of suppliers
+(and similar endpoints for managing suppliers)
+
+
+# Middleware: Common uses include:
+Authentication and authorization (ensuring users have access)
+Input validation (verifying product data integrity)
+Logging and auditing inventory changes
+Data transformation (preparing data for the application)
+
+
+# Protocol: HTTP verbs (GET, POST, PUT, DELETE) are used to interact with resources.
+
+socket : Two-way communication with mobile inventory scanners
+
+
 
 # *Functions/Features in the middleware*
 
