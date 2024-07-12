@@ -33,6 +33,8 @@ MySQL Workbench allows you to create and visualize database schemas, making data
 
 Visual Studio Code makes writing and editing PHP code straightforward with syntax highlighting and code completion. Its functionality is enhanced by extensions such as PHP Intelephense, which adds advanced PHP features. Debugging PHP code is simple with built-in tools and extensions. The integrated terminal allows running PHP scripts and commands directly within the editor. Additionally, it integrates seamlessly with Git for managing source code versions efficiently.
 
+# Architecture/Layer diagram for each of the apps including the middleware
+![architecture layer diagram](https://github.com/user-attachments/assets/33bacfca-498a-4196-be86-cbb2c4ab1adc)
 
 
 # RESTful API (Common for modern inventory systems):
